@@ -1,0 +1,207 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "a41a9b54390cad7e84d220370f9ba61b"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "4e673e4aff4cb8371a06570c3ba75d06"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "7331f6eb15671b2fc8e3ffd46e849f7b"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "c9542338d57b290bc4282df3cc018e80"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "9952f77ca2b8fbc9449a268008ea8dee"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "b586a3bc288c989ecce7b81b48e35855"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "932f325ea2f7fb1467e84c97f137e0f9"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "f4c4d35432d0e17d212f2fae4e0f8247"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "3fc55b509d613f5e49db25528dfafee1"
+    },
+    {
+        "path": "/assets/js/svg2js.js",
+        "type": "file",
+        "md5": "2edce17568ef29c308f3d0e28c9c7a06"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "b40f17fabcda1519011795fa715c5751"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "ae5b8ffffb37a64a9be016441a42d939"
+    },
+    {
+        "path": "/assets/svg/search.svg",
+        "type": "file",
+        "md5": "a5bb83b82b98f41b359f20dbf9db6e44"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "3c5bef20cd9e16841afe49cf089a6c20"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "b700c6ac4ca7916c23d9bc5e9de1e0a9"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "191d0eb841fc9f3e2f4360a5ee673b07"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "a85d97d838fab211cbd44e16936b3404"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/logo-placeholder.png",
+        "type": "file",
+        "md5": "7cb8e371db210679e2d3ee2f8f9e36a7"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/logo-placeholder-2xl.png",
+        "type": "file",
+        "md5": "07f9f14cd476704c581fbe49543bc544"
+    },
+    {
+        "path": "/media/website/responsive/logo-placeholder-lg.png",
+        "type": "file",
+        "md5": "07f9f14cd476704c581fbe49543bc544"
+    },
+    {
+        "path": "/media/website/responsive/logo-placeholder-md.png",
+        "type": "file",
+        "md5": "07f9f14cd476704c581fbe49543bc544"
+    },
+    {
+        "path": "/media/website/responsive/logo-placeholder-sm.png",
+        "type": "file",
+        "md5": "867423a05a9b69c619d259b22bf7f2e2"
+    },
+    {
+        "path": "/media/website/responsive/logo-placeholder-xl.png",
+        "type": "file",
+        "md5": "07f9f14cd476704c581fbe49543bc544"
+    },
+    {
+        "path": "/media/website/responsive/logo-placeholder-xs.png",
+        "type": "file",
+        "md5": "33a376d1e634bd53650e34e0d86f57d2"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "991026ee9dce0e82a56c7ddf8f8e81fd"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "f100ecd17009517a5a1f0c3c90473dff"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    }
+]

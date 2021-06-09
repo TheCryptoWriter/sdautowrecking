@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tawfiki",
+    "description": "",
+    "home_page_url": "https://sdautowrecking",
+    "feed_url": "https://sdautowrecking/feed.json",
+    "user_comment": "",
+    "icon": "https://sdautowrecking/media/website/logo-placeholder.png",
+    "author": {
+        "name": "David McNeal"
+    },
+    "items": [
+    ]
+}
